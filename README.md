@@ -3,5 +3,4 @@
 
 *  Key concepts of Identity Governance and Administration (IGA)
 *  Recognizing trends of the current IGA market
-*  Identifying issues of traditional IGA solutions
 *  Okta Identity Governance (OIG) key features and functionality
